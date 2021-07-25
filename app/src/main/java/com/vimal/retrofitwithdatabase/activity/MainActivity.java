@@ -2,7 +2,6 @@
  * Created by Vimal on July-2021.
  */
 package com.vimal.retrofitwithdatabase.activity;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
